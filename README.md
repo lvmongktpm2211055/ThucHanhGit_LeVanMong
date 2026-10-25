@@ -1,1 +1,1 @@
-# Bai tap thuc hanh Git
+Day la code cua nhanh chinh
